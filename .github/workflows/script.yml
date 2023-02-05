@@ -21,4 +21,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a Python script
-        run: python .github/workflow/num6.py
+        run: python ./IoT-Lab/main/Class/Exercises/Week 2/Exercise Session 1/num6.py
